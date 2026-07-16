@@ -199,9 +199,6 @@ Rechtsklick im Projektordner → "In Terminal öffnen"
 git clone <Repository-URL>
 cd Schmetterling-ZIP-PRO
 ```
-# Autor
-
-Entwickelt von den Autoren des Projekts **Schmetterling-ZIP PRO**.
 
 Beiträge, Fehlerberichte und Verbesserungsvorschläge sind jederzeit willkommen.
 ---
